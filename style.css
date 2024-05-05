@@ -1,0 +1,22 @@
+.vertical_line {
+    height: 80px;
+    border: 1px solid lightgray;
+}
+#search_bar{
+    width: 50%;
+    background-color: #f8f8f8;
+    padding: 0.7%;
+    border-radius: 13px;
+}
+
+#search_bar > input{
+    border: none;
+    width: 85%;
+    background-color: #f8f8f8;
+}
+#categories_section
+{
+    width: 85%;
+    margin: auto;
+    background: none;
+}
