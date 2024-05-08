@@ -19,7 +19,7 @@
 {
    width: 200px;
    display: inline-block !important;
-   margin: 10px;
+   margin-inline: 10px;
 }
 
 #categories_section
